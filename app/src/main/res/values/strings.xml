@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">smk_screen</string>
+    <string name="greenTXT">GREEN</string>
+    <string name="blueTXT">BLUE</string>
 </resources>
