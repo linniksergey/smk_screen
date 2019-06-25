@@ -1,12 +1,12 @@
 package com.example.smk_screen;
 
-import android.app.Activity;
 import android.os.Bundle;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
-public class GreenActivity extends AppCompatActivity {
+import com.example.smk_screen.R;
+
+public class BlueActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState){
