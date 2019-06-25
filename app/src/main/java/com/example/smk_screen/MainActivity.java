@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onClickBlue(View view){
-        Intent intent = new Intent(MainActivity.this, GreenActivity.class);
+        Intent intent = new Intent(MainActivity.this, BlueActivity.class);
         startActivity(intent);
     }
 }

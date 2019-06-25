@@ -17,11 +17,13 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".GreenActivity">
+        <activity android:name=".GreenActivity"
+            android:theme="@style/AppTheme.Fullscreen">
 
         </activity>
 
-        <activity android:name=".BlueActivity">
+        <activity android:name=".BlueActivity"
+            android:theme="@style/AppTheme.Fullscreen">
 
         </activity>
     </application>

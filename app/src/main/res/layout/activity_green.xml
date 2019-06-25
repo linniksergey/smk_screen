@@ -28,7 +28,7 @@
                 android:id="@+id/g_marker1"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
 
             <Space
                 android:layout_width="wrap_content"
@@ -39,7 +39,7 @@
                 android:id="@+id/g_marker2"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
 
             <Space
                 android:layout_width="wrap_content"
@@ -50,7 +50,7 @@
                 android:id="@+id/g_marker3"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
 
         </LinearLayout>
 
@@ -68,7 +68,7 @@
                 android:id="@+id/g_marker4"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
 
             <Space
                 android:layout_width="wrap_content"
@@ -79,7 +79,7 @@
                 android:id="@+id/g_marker5"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
 
             <Space
                 android:layout_width="wrap_content"
@@ -90,7 +90,7 @@
                 android:id="@+id/g_marker6"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
 
         </LinearLayout>
 
@@ -108,7 +108,7 @@
                 android:id="@+id/g_marker7"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
 
             <Space
                 android:layout_width="wrap_content"
@@ -119,7 +119,7 @@
                 android:id="@+id/g_marker8"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
 
             <Space
                 android:layout_width="wrap_content"
@@ -130,7 +130,7 @@
                 android:id="@+id/g_marker9"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
 
         </LinearLayout>
 
@@ -148,7 +148,7 @@
                 android:id="@+id/g_marker10"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
 
             <Space
                 android:layout_width="wrap_content"
@@ -159,7 +159,7 @@
                 android:id="@+id/g_marker11"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
 
             <Space
                 android:layout_width="wrap_content"
@@ -170,7 +170,7 @@
                 android:id="@+id/g_marker12"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker2" />
         </LinearLayout>
 
     </LinearLayout>
