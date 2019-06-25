@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#0000FF">
@@ -23,11 +24,11 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:id="@+id/g_marker7"
+                android:id="@+id/b_marker1"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@"
-                android:contentDescription="TODO" />
+                android:contentDescription="TODO"
+                app:srcCompat="@drawable/marker3" />
 
             <Space
                 android:layout_width="wrap_content"
@@ -35,10 +36,21 @@
                 android:layout_weight="1" />
 
             <ImageView
-                android:id="@+id/g_marker8"
+                android:id="@+id/b_marker2"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker3" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/b_marker3"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:srcCompat="@drawable/marker3" />
 
         </LinearLayout>
 
@@ -53,10 +65,10 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:id="@+id/g_marker7"
+                android:id="@+id/b_marker4"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker3" />
 
             <Space
                 android:layout_width="wrap_content"
@@ -64,10 +76,20 @@
                 android:layout_weight="1" />
 
             <ImageView
-                android:id="@+id/g_marker8"
+                android:id="@+id/b_marker5"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker3" />
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/b_marker6"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:srcCompat="@drawable/marker3" />
 
         </LinearLayout>
 
@@ -82,21 +104,31 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:id="@+id/g_marker7"
+                android:id="@+id/b_marker7"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker3" />
 
+            <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/b_marker8"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:srcCompat="@drawable/marker3" />
             <Space
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1" />
 
             <ImageView
-                android:id="@+id/g_marker8"
+                android:id="@+id/b_marker9"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker3" />
 
         </LinearLayout>
 
@@ -111,10 +143,10 @@
             android:orientation="horizontal">
 
             <ImageView
-                android:id="@+id/g_marker7"
+                android:id="@+id/b_marker10"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker3" />
 
             <Space
                 android:layout_width="wrap_content"
@@ -122,10 +154,22 @@
                 android:layout_weight="1" />
 
             <ImageView
-                android:id="@+id/g_marker8"
+                android:id="@+id/b_marker11"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
-                app:srcCompat="@layout/marker2" />
+                app:srcCompat="@drawable/marker3" />
+
+            <Space
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/b_marker12"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                app:srcCompat="@drawable/marker3" />
+
 
         </LinearLayout>
 
